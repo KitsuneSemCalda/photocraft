@@ -4,8 +4,8 @@ icon = "assets/app-icon/hicolor/256x256/apps/ai.storyteller.photocraft.png"
 
 [linux.x86_64]
 asset = "photocraft-{version}-linux-x86_64.tar.gz"
-exec = "photocraft-{version}-linux-x86_64/usr/bin/photocraft"
+exec = "photocraft-{version}-linux-x86_64/bin/photocraft"
 
 [linux.aarch64]
 asset = "photocraft-{version}-linux-aarch64.tar.gz"
-exec = "photocraft-{version}-linux-aarch64/usr/bin/photocraft"
+exec = "photocraft-{version}-linux-aarch64/bin/photocraft"
